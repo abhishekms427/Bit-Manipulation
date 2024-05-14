@@ -9,4 +9,5 @@ int main(){
 
     if(is_power_of_two(n)) printf("Yes %d is power of 2",n);
     else printf("No %d is not power of 2.",n);
+    return 0;
 }
